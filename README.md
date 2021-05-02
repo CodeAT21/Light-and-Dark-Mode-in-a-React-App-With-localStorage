@@ -1,6 +1,3 @@
-# Light-and-Dark-Mode-in-a-React-App-With-localStorage
-
-
 ### `npm install package`
 
 
@@ -14,4 +11,4 @@ npm install react-icons --save
 <a href="https://youtu.be/EdkBNqHxw5Y" rel="nofollow"> Live Demo </a>
 
 ### Website
-<a href="https://codeat21.com/light-and-dark-mode-in-a-react-app-with-localstorage/" rel="nofollow"> Website </a>
+<a href="https://codeat21.com/react-navbar-dropdown-menu-responsive-codeat21-com/" rel="nofollow"> Website </a>

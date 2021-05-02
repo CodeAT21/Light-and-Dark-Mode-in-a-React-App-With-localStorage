@@ -1,0 +1,36 @@
+.so__sticky{
+  position: fixed;
+  right: 0;
+  z-index: 999;
+  background-color: $bgColor;
+  box-shadow: -2px 0 8px 0 #ddd;
+  width: 50px;
+  border-radius: 4px 0 0 4px;
+  top: 196px;
+}
+.dark__mode {background-color: #252121;}
+.light__mode {background-color: white;}
+.switch-checkbox {
+  padding: 10px;
+  cursor: pointer;
+}
+.so__sticky svg{
+	font-size: 23px;
+}
+.dark__mode .menu-item a, .dark__mode h1 ,.dark__mode h2 ,.dark__mode h3 ,.dark__mode h4 ,.dark__mode h5 ,.dark__mode h6 , .dark__mode p{
+    color: #ffffff;
+}
+.dark__mode .griditem7 p {
+    background-color: rgb(251 252 255);
+}
+.dark__mode .header__middle__logo img {
+    background-color: white;
+    border-radius: 7px;
+}
+.dark__mode .aside, .dark__mode .aside p {
+    color: #ea3e36;
+}
+.dark__mode .sub__menus {
+    background: #252121;
+    border: 1px solid #4c4a4a;
+}
